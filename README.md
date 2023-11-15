@@ -32,6 +32,3 @@ email 1029cjsow@naver.com
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsg716&layout=compact)
-<br>
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nsg716)](https://solved.ac/nsg716)
