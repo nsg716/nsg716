@@ -11,7 +11,7 @@
 
  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
 
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![django](https://img.shields.io/badge/django-424242?style=for-the-badge&logo=django&logoColor=white) ![R](https://img.shields.io/badge/R-29B6F6?style=for-the-badge&logo=R&logoColor=white)<br>
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-29B6F6?style=for-the-badge&logo=R&logoColor=white)<br>
 
 
 ### 배웠던 기술 중 일부
